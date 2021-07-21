@@ -1,0 +1,46 @@
+body {
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    
+}
+
+.navbar {
+    background-color: #8D88D1;
+}
+
+.logo {
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.quem-somos {
+    background-color: #5d58aa;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img-divulgacao {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.parceiros {
+    background-color: #8D88D1;
+}
+
+.servicos {
+    background-color: #5d58aa;
+}
+
+.titulo-section {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.bg-footer {
+    background-color: rgb(110, 108, 108);
+    font-family: 'PT Sans', sans-serif;;
+}
